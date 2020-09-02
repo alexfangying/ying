@@ -10,4 +10,4 @@ A **Data Science Enthusiast**. Interned at John Hancock as a **Data Science Co-o
 
 Obtained my Master's Degree in **Data Science** from Worcester Polytechnic Institute in Massachusetts and my Bachelor of **Industrial Engineering** from Sichuan University in Chengdu, China.
 
-Please check my [resume](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29).
+Please check my [resume](/assets/img/photo.jpg).
