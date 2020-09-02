@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Data Scientist | Programming Analyst | SCU 🌈 FJU 🌈 WPI
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I am Ying 😃
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+A **Data Science Enthusiast**. Interned at John Hancock as a **Data Science Co-op**. Previous worked as a **Programming Analyst** (SAI Global) and **Client Services Specialist** (International SOS).
 
-What else do you need?
+Obtained my Master's Degree in **Data Science** from Worcester Polytechnic Institute in Massachusetts and my Bachelor of **Industrial Engineering** from Sichuan University in Chengdu, China.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Please check my [resume](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29).
